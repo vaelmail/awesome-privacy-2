@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Proton Mail](https://proton.me/mail) – End-to-end encrypted email service.
 - [Tutanota](https://tutanota.com/) – Secure, encrypted email with open-source clients.
 - [Mailfence](https://mailfence.com/) – Private email suite based in Belgium.
+- [VaelMail](https://vaelmail.com/) – Privacy-first webmail with 16-digit account keys, persistent @vael.pw aliases, and zero phone verification. Hosted in Sweden.
 
 ## Messaging Apps
 
